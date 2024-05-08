@@ -1,5 +1,7 @@
-# EX10 Sentimental Analysis on Any Dataset Using Rapidminer
+# EX: 10 Sentimental Analysis on Any Dataset Using Rapidminer
+
 ## DATE: 27/4/2024
+
 ## AIM: 
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ## Description: 
